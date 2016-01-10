@@ -1,4 +1,4 @@
-## OS X Lion 配置Apache PHP MySQL
+# OS X Lion 配置Apache PHP MySQL
 日期：2015-1-10
 
 ### 配置Apache
