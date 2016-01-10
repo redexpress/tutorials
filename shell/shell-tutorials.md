@@ -16,6 +16,6 @@
 ### Shell调试
 [如何调试bash脚本](http://coolshell.cn/articles/1379.html)
 
-## Awk
-### Awk基础
+## AWK
+### AWK
 [AWK 简明教程](http://coolshell.cn/articles/9070.html)
